@@ -14,7 +14,7 @@ pip install matplotlib jupyter
 ```
 ## Notebook
 The attached jupyter notebook will allow you to:
-- Calculate the error rate for a toy example
+- Visualization of Ground Truth Functions in 2D.
 - Reproduce the plots in fig 2 of the paper. 
 
 
