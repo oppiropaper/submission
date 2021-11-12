@@ -1,4 +1,4 @@
-# UNIFORMGENERALIZATIONBOUNDS  FOROVERPA-RAMETERIZEDNEURALNETWORKS
+# UNIFORMGENERALIZATIONBOUNDS  FOR OVERPARAMETERIZED NEURAL NETWORKS
 This repository is the official implementation of *Uniform Generalization Bounds for Overparametrized Neural Network*.
 Adopting therecently developed Neural Tangent (NT) kernel theory, we prove uniform gener-alization bounds for overparameterized neural networks in kernel regimes, whenthe true data generating model belongs to the reproducing kernel Hilbert space(RKHS) corresponding to the NT kernel. Importantly, our bounds capture the exact error rates depending on the differentiability of the activation functions
 
